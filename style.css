@@ -1,2 +1,7 @@
 @import "header.css";
 @import "container.css";
+
+button {
+    outline: none;
+    cursor: pointer;
+}
